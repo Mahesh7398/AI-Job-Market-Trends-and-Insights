@@ -32,7 +32,8 @@ The dashboard contains various visual elements, including:
 3. **Job Titles vs. Salaries with AI Adoption Levels**: A horizontal bar chart comparing job salaries by AI adoption levels (High, Medium, Low).
 4. **Skills Demand by Industry**: A treemap showing the most demanded skills across various industries.
 5. **Salary Analysis by Job Title and Industry**: A box plot illustrating salary ranges for different job titles and industries.
-6. **Max Salary by AI Adoption Level**: Cards highlighting the maximum salaries for low and high AI adoption levels.
+6. **Max Salary by AI Adoption Level**: Cards highlighting the maximum salaries for high AI adoption levels.
+7. **Max Salary without AI Adoption Level**: Cards highlighting the maximum salaries for low AI adoption levels.
 
 ## Features
 - **Interactive Filters**: Slicers for filtering data based on industries, AI adoption levels, and job titles.
